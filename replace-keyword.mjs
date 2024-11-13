@@ -14,12 +14,7 @@ import words from './aoe2.json' assert { type: 'json' }
     // console.log(findResult)
     // console.log(words)
     const ifMerge = !!await getInputFromTerminal('输入任何内容进行合并：');
-    const inputFilePath = await getInputFromTerminal('拖入文件: ', text => {
-      if (text.startsWith('& ')) {
-        text = text.slice(3, -1);
-      }
-      return text
-    });
+    const inputFilePath = await getInputFromTerminal('拖入文件: ');
     const { dir, ext, name } = path.parse(inputFilePath);
     const flatWords = Object.entries(words)
       .reduce((a,b) => Object.assign(a, b[1]), {})

@@ -10,11 +10,11 @@ export async function getInputFromTerminal(question, callback) {
       });
       rl.question(question, (filePath) => {
         rl.close();
-        if (callback) {
-          resolve(callback(filePath));
-        } else {
-          resolve(filePath);
+        if (filePath.startsWith('& ')) {
+          filePath = filePath.slice(3, -1);
+          filePath = filePath.replace(/''/g, "'");
         }
+        resolve(filePath);
       });
     } catch (error) {
       reject(error);
@@ -55,7 +55,7 @@ export async function merge(filePath) {
       text += '\r\n' + line
     }
   })
-  text = text.replace(/\s/g, ' ');
+  text = text.replace(/\s+/g, ' ');
   text = text.replace(/  /g, ' ');
   text = text.replace(/i mean/gi, '');
   text = text.replace(/you know/gi, '');

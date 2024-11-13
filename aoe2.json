@@ -214,7 +214,18 @@
         "Gambesons": "软甲",
         "Bimaristan": "穆斯林诊所",
         "Devotion": "虔诚",
-        "Steppe Husbandry": "大草原畜牧"
+        "Steppe Husbandry": "大草原畜牧",
+        "Sparabaras": "波斯步兵方阵",
+        "Reed Arrows": "芦苇箭",
+        "Scythed Chariots": "刀轮战车",
+        "Karda": "卡尔达",
+        "Taxiarchs": "联队长",
+        "Iphicratean Tactics": "伊菲克拉特斯战术",
+        "Delian League": "提洛同盟",
+        "Helot Levies": "希洛人征兵",
+        "Xyphos": "希腊短剑",
+        "Krypteia": "克里普提",
+        "Peloponnesian League": "伯罗奔尼撒同盟"
     },
     "units": {
         "Ox Wagon": "牛战车",
@@ -383,7 +394,12 @@
         "Slinger": "投石手",
         "Janissary": "苏丹亲兵",
         "Hand Cannoneer": "火枪手",
-        "Organ Gun": "风琴炮"
+        "Organ Gun": "风琴炮",
+        "Strategoi": "将军",
+        "Immortal": "长生军",
+        "Strategos": "将军",
+        "Polemarch": "军事执政官",
+        "Hippeus": "三百卫士"
     },
     "maps": {
         "Kilimanjaro": "乞力马扎罗山",
@@ -578,6 +594,7 @@
         "wood line": "伐木区"
     },
     "buildings": {
+        "Shipyards": "造船厂",
         "Guard Tower": "警戒箭塔",
         "Bombard Tower": "炮塔",
         "Watch Tower": "瞭望箭塔",

@@ -1,0 +1,9 @@
+170114 "1v1 (红牛呜噜噜：El Reinado)"
+30024101 "游玩 1v1 红牛呜噜噜：El Reinado 游戏。排名战绩将会计入红牛呜噜噜：El Reinado 排行榜。"
+
+IDS_MACTHMAKING_MAP_TAB_ONEVONE_DEATH_EW "1v1 RBW: ER"
+IDS_MATCHMAKING_MAP_TAB_ONEVONE_DEATH_HELP_TEXT_EW "显示 1v1 红牛呜噜噜：El Reinado 地图列表。"
+IDS_MATCHMAKING_RED_BULL "RBW: El Reinado"
+IDS_MATCHMAKING_RED_BULL_CO "[GAMEPAD] RBW: El Reinado"
+IDS_LEADERBOARD_RANKED_WARNING_RED_BULL_WOLOLO "尚未排名！\n\n再玩 %d 场排名 1v1 红牛呜噜噜：El Reinado 游戏，即可在红牛呜噜噜：El Reinado 排行榜上获得排名。"
+IDS_MATCHMAKING_SPONSORED_TOURNAMENT "RBW: El Reinado"

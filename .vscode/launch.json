@@ -11,7 +11,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "${workspaceFolder}\\cosyvoice.mjs"
+      "program": "${workspaceFolder}\\replace-keyword.mjs"
     }
   ]
 }

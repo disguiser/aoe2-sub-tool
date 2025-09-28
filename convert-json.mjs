@@ -1,6 +1,5 @@
-import words from './aoe2.json' assert { type: 'json' }
+import words from './aoe2.json' with { type: 'json' }
 import fs from 'fs/promises';
-import path from 'path';
 
 (async () => {
   const flatWords = Object.entries(words)

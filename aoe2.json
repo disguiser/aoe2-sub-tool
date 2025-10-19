@@ -238,6 +238,8 @@
         "Lamellar Armor": "札甲"
     },
     "units": {
+        "Lancer": "长矛骑兵",
+        "hoplite": "希腊步兵",
         "Hei Guang Cavalry": "黑光铠骑兵",
         "Hei Guang": "黑光铠骑兵",
         "Fire Archer": "火焰弓箭手",

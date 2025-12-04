@@ -238,6 +238,7 @@
         "Lamellar Armor": "札甲"
     },
     "units": {
+        "Lembos": "小艇",
         "Lancer": "长矛骑兵",
         "hoplite": "希腊步兵",
         "Hei Guang Cavalry": "黑光铠骑兵",
@@ -371,7 +372,7 @@
         "Rams": "冲车",
         "Siege Onager": "重型投石车",
         "Onager": "中型投石车",
-        "Mangonel": "轻型投石车",
+        "Mangonel": "投石车",
         "Petard": "爆破兵",
         "Bombard Cannon": "手推炮",
         "bomber Cannon": "手推炮",

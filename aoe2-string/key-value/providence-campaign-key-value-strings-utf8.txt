@@ -1263,7 +1263,7 @@
 453545 "精锐掷矛手"
 453546 "生产<b>剑士<b>编队 (<cost>)\n全能步兵。适于攻击建筑、步兵、斥候骑兵和掷矛手系。不适于攻击远程士兵。\n<hp> <attack> <armor> <piercearmor> <range>"
 453547 "生产<b>卫兵<b>编队 (<cost>)\n反骑兵步兵。适于攻击骑兵单位，尤其是象兵。不适于攻击远程士兵和步兵。\n<hp> <attack> <armor> <piercearmor> <range>"
-453548 "生产<b>复合弓兵<b>编队 (<cost>)\n全能步弓兵。适于攻击远程单位。不适于攻击长掷矛手、投石车系和近程单位。\n<hp> <attack> <armor> <piercearmor> <range>"
+453548 "生产<b>复合弓兵<b>编队 (<cost>)\n全能步弓兵。适于攻击远程单位。不适于攻击长掷矛手、轻型投石车系和近程单位。\n<hp> <attack> <armor> <piercearmor> <range>"
 453549 "生产<b>精锐掷矛手<b>编队 (<cost>)\n反弓兵掷矛手，无法近程攻击。适于攻击远程士兵和长矛兵系。不适于攻击近程单位。\n<hp> <attack> <armor> <piercearmor> <range>"
 453550 "密集的强化哨站"
 453551 "密集的强化哨站" // Don't add new strings without the ID gap from the objectives
@@ -2654,7 +2654,7 @@
 
 // END OBJECTIVES SECTION
 
-457450 "空补给车"
+457450 "空补给车"  // "Empty" is an adjective here, not a command
 457451 "运送食物的补给车"
 457452 "运送水的补给车"
 457453 "补给车已采集完食物。"
